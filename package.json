@@ -1,0 +1,16 @@
+{
+  "name": "pokegalaxy-assistant-bot",
+  "version": "1.0.0",
+  "description": "A Discord assistant bot for PokéGalaxy with spawn alerts, ping groups, and MongoDB integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "mongoose": "^7.6.1"
+  }
+}
